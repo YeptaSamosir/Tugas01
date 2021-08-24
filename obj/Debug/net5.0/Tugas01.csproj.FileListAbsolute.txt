@@ -1,0 +1,16 @@
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\bin\Debug\net5.0\Tugas01.exe
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\bin\Debug\net5.0\Tugas01.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.AssemblyInfoInputs.cache
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.AssemblyInfo.cs
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.csproj.CoreCompileInputs.cache
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\ref\Tugas01.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.pdb
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\bin\Debug\net5.0\Tugas01.deps.json
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\bin\Debug\net5.0\Tugas01.runtimeconfig.json
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\bin\Debug\net5.0\Tugas01.runtimeconfig.dev.json
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\bin\Debug\net5.0\ref\Tugas01.dll
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\bin\Debug\net5.0\Tugas01.pdb
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.genruntimeconfig.cache
+C:\Users\Pluginnnnn\source\repos\Metrodata\Tugas01\Tugas01\obj\Debug\net5.0\Tugas01.csproj.AssemblyReference.cache
